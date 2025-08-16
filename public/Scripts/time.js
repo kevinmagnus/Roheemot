@@ -56,7 +56,7 @@ greet();
 
 
 
-const website_creation_date = new Date("2025-08-14");
+const website_creation_date = new Date("2025-08-16");
 
 
 function calculate_date_created() {
